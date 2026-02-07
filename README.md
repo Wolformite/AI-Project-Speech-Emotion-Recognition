@@ -45,5 +45,3 @@ The model is a **2D Convolutional Neural Network** consisting of:
 ## Dataset
 
 RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
-
-Expected folder structure:
